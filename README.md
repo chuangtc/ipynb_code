@@ -1,4 +1,4 @@
-# 股海小英雄 Youtube頻道程式碼
+# 股海小英雄 Youtube頻道程式碼 (Original)
 ##  Part 1: 程式新手上路系列
 - ### 怎麼用Colab使用股海小英雄頻道程式碼？
 > - <p>Youtube影片：<a href="https://youtu.be/dR8pasxk9zw" title="Title">【程式新手上路】想複製別人的程式來用，修但幾咧你用過Colab了嗎？</a></p>
